@@ -710,3 +710,19 @@ padding-bottom: 2em;
   }
 
 
+
+
+ #band {
+    padding: 80px 120px;  
+  }
+
+  .person {
+    border: 10px solid transparent;
+    margin-bottom: 60px;
+    width: 230px;
+    height: 230px;
+    opacity: 0.7;      
+  }
+  .person:hover {
+    border-color: #f1f1f1;
+  }
